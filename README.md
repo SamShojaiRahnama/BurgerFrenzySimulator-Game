@@ -1,6 +1,6 @@
 # **BurgerFeenzy Simulator**
 
-**BurgerFeenzy Simulator** is a dynamic burger order simulation game developed using Java and JavaFX. The game is designed with accessibility in mind and provides a competitive edge through experience points (XP). The project was developed with a strong focus on **Object-Oriented Design (OOD)** principles and incorporates multiple design patterns to ensure a maintainable, scalable, and enjoyable game experience.
+**BurgerFeenzy Simulator** is a dynamic burger order simulation game developed using Java and JavaFX. The game is designed with accessibility in mind and provides a competitive edge through experience points (XP). The project was developed with a strong focus on **Object-Oriented Programming (OOP)** principles and incorporates multiple design patterns to ensure a maintainable, scalable, and enjoyable game experience.
 
 ## **Project Overview**
 
